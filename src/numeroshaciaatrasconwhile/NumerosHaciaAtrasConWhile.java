@@ -16,6 +16,13 @@ public class NumerosHaciaAtrasConWhile {
    */
   public static void main(String[] args) {
     // TODO code application logic here
+
+    //Muestra los números del 320 al 160, contando de 20 en 20 hacia atrás
+    //utilizando un bucle while.
+    
+    //Creo una variable de tipo entero con el valor 320
+    
+    int numero = 320;
   }
-  
+
 }
